@@ -1,7 +1,7 @@
 
 # I'm Shivank!
 
- I'm a **Computational Biologist** passionate about exploring science through the lens of data and algorithms.
+ **Computational Biologist** passionate about exploring science through the lens of data and algorithms.
 ##  About Me
 
 -  Graduate Student at Carnegie Mellon University, pursuing a Master's in Computational Biology.
